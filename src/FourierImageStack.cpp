@@ -27,6 +27,21 @@
 * source code with only those rights set forth herein.
 */
 
+/* Written by Frank Jargstorff and Peter J. Lu
+ * (C)opyright 2009-2012 Frank Jargstorff and Peter J. Lu
+ *
+ * If you use this code in your research, please cite the original paper:
+ * Peter J. Lu (陸述義), Fabio Giavazzi, Thomas E. Angelini, Emanuela Zaccarelli,
+ * Frank Jargstorff, Andrew B. Schofield, James N. Wilking, Mark B. Romanowsky,
+ * David A. Weitz, and Roberto Cerbino,
+ * "Characterizing Concentrated, Multiply Scattering, and Actively Driven
+ * Fluorescent Systems with Confocal Differential Dynamic Microscopy"
+ * PHYSICAL REVIEW LETTERS, vo. 108, 218103 (2012)
+ *
+ * http://www.peterlu.org
+ */
+
+
 #include "FourierImageStack.h"
 
 #include "Exceptions.h"
