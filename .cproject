@@ -125,7 +125,9 @@
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 		<project id="ConDDM.com.nvidia.cuda.ide.exe.1018737662" name="Executable" projectType="com.nvidia.cuda.ide.exe"/>
 	</storageModule>
-	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="refreshScope" versionNumber="1">
+		<resource resourceType="PROJECT" workspacePath="/ConDDM"/>
+	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		<scannerConfigBuildInfo instanceId="com.nvidia.cuda.ide.configuration.release.1484186641;com.nvidia.cuda.ide.configuration.release.1484186641.;nvcc.compiler.base.1228959584;nvcc.compiler.input.cu.178712705">
